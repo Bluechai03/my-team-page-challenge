@@ -42,7 +42,8 @@
 Good day! Here is my solution for devChallenges.io's My Team Page Challenge. You can view my demo through the 'Demo' link at the top. This is the second challenge I'm attempting for devChallenges.io.  
 I used SCSS as the preprocessor for CSS and made use of mixins, variables and nesting capabilities. For the header, I used CSS Flexbox to create an adaptive two-column layout and used CSS Grid for the main content of the page.
 
-I mostly use Flexbox for creating responsive layouts, but using Grid seemed like the most reasonable choice for this challenge. I wasn't too familiar with Grid so I did have to learn the basics of it throughout creating this challenge. The vertical text of each team member had me confused but after a bit of research, I found that CSS had a built in property called writing-mode that allows you to write text in vertical or horizontal orientations.  
+I mostly used Flexbox for creating responsive layouts, but using Grid seemed like the most reasonable choice for this challenge. I wasn't too familiar with Grid so I did have to learn the basics of it throughout creating this challenge. The vertical text of each team member had me confused but after a bit of research, I found that CSS had a built in property called writing-mode that allows you to write text in vertical or horizontal orientations.
+
 I enjoyed this challenge, I was able to learn new things and also reinforce the techniques I had been using beforehand.
 
 ### Built With
