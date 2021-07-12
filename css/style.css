@@ -4,7 +4,7 @@
 }
 
 body {
-  width: 95%;
+  width: 90%;
   max-width: 1024px;
   margin: 0 auto;
   font-family: "Poppins", sans-serif;
@@ -109,7 +109,7 @@ img {
 
 @media screen and (min-width: 758px) {
   .member--low {
-    transform: translateY(4.75rem);
+    transform: translateY(6.325rem);
   }
 }
 
