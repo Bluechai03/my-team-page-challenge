@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">My Team Page Challenge</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://bluechai03.github.io/404-not-found-challenge/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/Bluechai03/my-team-page-challenge">
       Solution
     </a>
     <span> | </span>
@@ -36,22 +36,21 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://i.imgur.com/25dRWNJ.png)
+![screenshot](https://i.imgur.com/8cMWMso.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+Good day! Here is my solution for devChallenges.io's My Team Page Challenge. You can view my demo through the 'Demo' link at the top. This is the second challenge I'm attempting for devChallenges.io.  
+I used SCSS as the preprocessor for CSS and made use of mixins, variables and nesting capabilities. For the header, I used CSS Flexbox to create an adaptive two-column layout and used CSS Grid for the main content of the page.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+I mostly use Flexbox for creating responsive layouts, but using Grid seemed like the most reasonable choice for this challenge. I wasn't too familiar with Grid so I did have to learn the basics of it throughout creating this challenge. The vertical text of each team member had me confused but after a bit of research, I found that CSS had a built in property called writing-mode that allows you to write text in vertical or horizontal orientations.  
+I enjoyed this challenge, I was able to learn new things and also reinforce the techniques I had been using beforehand.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML](https://en.wikipedia.org/wiki/HTML)
+- [SCSS](https://sass-lang.com/)
 
 ## Features
 
@@ -59,17 +58,14 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build an application to complete the given user stories.
 
+## Contact
+
+- GitHub [@Bluechai03](https://github.com/Bluechai03)
+
+<!-- ACKNOWLEDGEMENTS -->
 
 ## Acknowledgements
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-
-## Contact
-
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- [The EASIEST way to get started with CSS GRID](https://www.youtube.com/watch?v=_lEkD8IGkwo)
+- [CSS Grid Starter Layouts](https://css-tricks.com/snippets/css/css-grid-starter-layouts/)
+- [writing-mode](https://css-tricks.com/almanac/properties/w/writing-mode/)
